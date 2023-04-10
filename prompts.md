@@ -1,4 +1,4 @@
-## SAMPLE 1
+## SAMPLE 1 (IT Intent)
 
 ```
 {
@@ -10,7 +10,7 @@
 }
 ```
 
-## SAMPLE 2
+## SAMPLE 2 (HR Intent)
 
 ```
 {
