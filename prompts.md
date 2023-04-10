@@ -1,5 +1,5 @@
 ## REST API
-https://<Azure_OpenAI_Service>.openai.azure.com/openai/deployments/<chatgpt_deployment_name>/completions?api-version=2022-12-01
+```https://<Azure_OpenAI_Service>.openai.azure.com/openai/deployments/<chatgpt_deployment_name>/completions?api-version=2022-12-01```
 
 ## SAMPLE 1 (IT Intent)
 
